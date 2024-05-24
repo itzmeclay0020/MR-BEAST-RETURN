@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MR-BEAST-RETURN
+- 👋 Hi, I’m @CLAY
 - 👀 I’m interested in ... coding only
-- 🌱 I’m currently learning ... java ,python and unity
+- 🌱 I’m currently learning ... java ,c++ ,html ,css
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
